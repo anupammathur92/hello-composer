@@ -1,6 +1,6 @@
 <?php 
 
-namespace am\HelloWorld;
+namespace anupamm\HelloWorld;
 
 class Index
 {

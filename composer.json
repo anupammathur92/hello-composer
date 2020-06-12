@@ -1,12 +1,12 @@
 {
-    "name": "am/hello-composer",
+    "name": "anupamm/hello-composer",
     "description": "test",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
-            "email": "agavitalisogbonna@gmail.com"
+            "name": "test m",
+            "email": "er.anupam.mathur@gmail.com"
         }
     ],
     "minimum-stability": "stable",
